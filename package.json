@@ -1,0 +1,19 @@
+{
+  "name": "excel-converter",
+  "version": "0.0.1",
+  "description": "Convert certain format of excel to docx format",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/elanq/excel-converter",
+  "keywords": [
+    "excel",
+    "converter"
+  ],
+  "author": "elanq",
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "xlsx": "0.8.6"
+  }
+}
